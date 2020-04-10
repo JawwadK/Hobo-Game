@@ -5,21 +5,6 @@ Game is available to play at https://TrevorClarke.ca/projects/hoboGame
 
 ## Contributions:
 
-Trevor:
-- Contributed to the integration of Printer.js.
-- Helped develop all aspects of the Hobo game’s classes and functions.
-- Created and modified the image assets used in the game. These include the animated hobo images, the grass images, the cobblestone, the wooden planks, the darkness gradient, etc
-- Researched methods of creating darkness in the scene, determined that changing the blending mode would be the easiest way of adding the time / day features.
-- Researched how to add light sources around the players
-- Researched how to make cone-shaped light sources to be used on the front of the train
-- Researched how to add precipitation to the game. This was interesting due to the top-down view that the game possessed.
-- Assisted with the calculations of the theoretical analysis’ in the Results Report.
-- Structured, formatted and contributed to the content in the Results Report.
-- Generated and executed many tests outlined in the Test Report.
-- Documented and recorded defects throughout the development process.
-- Outlined and described the assumed engineering tasks associated with the user stories.
-- Assisted with the documentation of the Product Backlog as the various tasks were completed.
-
 Seyon:
 - Contributed and helped develop code and functionality for the game
 - Added functionality to the game that added images to be displayed
@@ -52,3 +37,15 @@ Hamdan:
 - Ensured game validation by making sure it met requirements.
 - Assisted with Product backlog by figuring out Engineering Tasks from User stories.
 - Work on refactoring various functions within the Main and Helper files.
+
+Jawwad: 
+- Created and Formatted Product Backlog
+- Assisted in creating calculations associated with the theoretical analysis’ in the Results report
+- Provided experimental data used in conjunction with theoretical estimations in the Results report
+- Contributed towards documentation of test cases along with structuring and format in the Test Report.
+- Assisted with execution of tests highlighted in Test Report
+- Assisted in generating user stories, creating effort estimates and documenting sprint details  in the Product Backlog
+- Assisted in developing train logic and the random generation of player names
+- Researched formatting of Test Report, Results Report and product backlog
+- Verified and validated whether the final game product met the requirements required by user stories and engineering tasks
+
